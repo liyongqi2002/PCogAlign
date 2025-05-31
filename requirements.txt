@@ -1,0 +1,8 @@
+vllm
+modelscope
+qwen_vl_utils
+peft
+transformers
+addict
+bitsandbytes
+flash-attn
