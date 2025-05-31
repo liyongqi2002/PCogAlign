@@ -9,7 +9,7 @@ This repository contains the official code and evaluation tools for our ACL 2025
 
 > ⚠️ This project is for academic research only and not intended for commercial use.
 
----
+
 
 ## 1 Abstract
 
@@ -22,7 +22,7 @@ Finally, we present a framework called PCogAlign, which constructs a cognition-a
 Experimental results and human evaluations demonstrate the reliability of the PCogAlignBench and the effectiveness of our proposed PCogAlign.
 
 
----
+
 
 ## 2 Installation & Setup
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 > ✅ Make sure you're using Python 3.10+ and have CUDA-compatible hardware if running locally.
 
----
+
 
 ## 3 Benchmark
 
@@ -44,7 +44,7 @@ Download our benchmark dataset from Hugging Face:
 
 Replace the original empty "PCogAlignBench" with your downloaded one.
 
----
+
 
 ## 4 Model Preparation
 
@@ -58,7 +58,7 @@ You can download and place a compatible VLM model like `Qwen/Qwen2-VL-7B-Instruc
 > - Use quantized version of the model.
 > - Adjust image resolution by modifying `resized_height` / `resized_width` in `utils.py/get_vllm_input()`.
 
----
+
 
 ## 5 🚀 Running
 
@@ -70,7 +70,7 @@ bash run_PCogAlign.sh
 
 > This script handles preprocessing, training and test generation. You can inspect the file for more details.
 
----
+
 
 ## 6 Evaluation
 
@@ -82,7 +82,6 @@ GPT-based evaluations in the `evaluation` folder.
 
 > 📝 We recommend using GPT-4o or similar for best evaluation performance.
 
----
 
 [//]: # (## Citation)
 
@@ -106,13 +105,11 @@ GPT-based evaluations in the `evaluation` folder.
 
 [//]: # (```)
 
----
 
 ## 🙌 Acknowledgments
 
 All datasets and models used are obtained through legal and ethical means. For detailed ethical considerations, please refer to our paper's Ethics Statement section.
 
----
 
 ## 📬 Contact
 
