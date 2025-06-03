@@ -3,7 +3,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/your-username/PCogAlign?style=social)](https://github.com/liyongqi2002/PCogAlign)
 [![Hugging Face Dataset](https://img.shields.io/badge/dataset-PCogAlignBench-blue)](https://huggingface.co/datasets/YongqiLi/PCogAlignBench)
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-orange)](https://arxiv.org/abs/2506.00930)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.00930-orange)](https://arxiv.org/abs/2506.00930)
 
 This repository contains the official code and evaluation tools for our ACL 2025 main paper **"Aligning VLM Assistants with Personalized Situated Cognition"**. 
 
